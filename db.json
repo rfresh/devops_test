@@ -57,8 +57,6 @@
 	{"id":988,"stock_symbol":"GLP","name":"Global Partners LP","market_cap":"$637.42M"},
 	{"id":989,"stock_symbol":"GRFS","name":"Grifols, S.A.","market_cap":"$14.64B"},
 	{"id":990,"stock_symbol":"RPD","name":"Rapid7, Inc.","market_cap":"$739.26M"},
-	{"id":991,"stock_symbol":"MET^A","name":"MetLife, Inc.","market_cap":"n/a"},
-	{"id":992,"stock_symbol":"ABR^C","name":"Arbor Realty Trust","market_cap":"n/a"},
 	{"id":993,"stock_symbol":"STL","name":"Sterling Bancorp","market_cap":"$3.18B"},
 	{"id":994,"stock_symbol":"ADMS","name":"Adamas Pharmaceuticals, Inc.","market_cap":"$391.07M"},
 	{"id":996,"stock_symbol":"FITBI","name":"Fifth Third Bancorp","market_cap":"$535.68M"},
